@@ -1,5 +1,5 @@
 ## Yuzhu ZHANG 
-![Image](https://github.com/zyztong/personal_website/blob/master/source/profile.png)
+![Image](https://github.com/zyztong/personal_website/blob/master/source/profile.jpg)
 
 ### EDUCATION
 
