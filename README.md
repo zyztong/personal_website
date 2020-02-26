@@ -1,5 +1,4 @@
 ## Yuzhu ZHANG 
-![profile]()
 
 
 ### EDUCATION
