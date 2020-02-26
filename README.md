@@ -1,6 +1,6 @@
 ## Yuzhu ZHANG 
 ![Image](https://github.com/zyztong/personal_website/blob/master/source/profile.jpg)
-
+<img align="left" src="https://github.com/zyztong/personal_website/blob/master/source/profile.jpg">
 ### EDUCATION
 
 - 2017 - Present    **SKEMA Business School (Paris & US Raleigh) - Program GRANDE ECOLE**
