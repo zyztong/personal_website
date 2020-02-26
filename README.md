@@ -1,5 +1,5 @@
 ## Yuzhu ZHANG 
-![Image](source/profile.jpg)
+![Image](/source/profile.png)
 ### EDUCATION
 
 - 2017 - Present    **SKEMA Business School (Paris & US Raleigh) - Program GRANDE ECOLE**
