@@ -1,5 +1,5 @@
 ## Yuzhu ZHANG 
-
+![Image](https://github.com/zyztong/personal_website/blob/master/source/profile.png)
 
 ### EDUCATION
 
@@ -9,10 +9,48 @@
 
 - 2015 - 2016         **IPAG Business School (Paris) - Bachelor « Real estate financing »** 
 
-
-
 ### WORK HISTORY
-July 2019            Portfolio Manager Securitization - Front Office - Crédit Agricole CIB (France)
+July 2019       _6 months_       
+
+**Portfolio Manager Securitization - Front Office - Crédit Agricole CIB (France)**
+
+- Manage portfolio of transactions for multinational companies (ABS / ABCP deals)
+-	Structure new securitization transactions and implement by using excel and SIS (Securitization software)
+-	Compose credit application and present to the risk committee
+-	Monitor transaction performance and calculate credit enhancement 
+-	Manage deals presentation for MO and Risks
+
+January 2019       _6 months_
+
+**Credit Risk Analyst – BNP Paribas (France)**
+
+- Analyze the solvency of companies to issue approvals (with authority of 10k euros)
+- Monitor the risk and rearrange the approvals
+- Write annual review of multinational corporation, by analyzing their annual reports and latest trends
+
+July 2018         _2 months_
+
+**Financial Analysts Assistant - China Life Insurance (China)**
+
+- Assist client managers and actuaries in designing insurance products
+- Calculate gross and profit margins
+-	Create the PivotTable to analyze variations in different costs
+
+May 2018         _2 months_
+
+**Accounting Administration Assistant - Baobab Lab Traiteur (France)**
+
+- Create cost structure of product and service
+-	Calculate gross and profit margins
+- Create the PivotTable to analyze variations in different costs
+
+
+May 2017         _4 months_
+
+- Participate in steering the credit process for Yatai Group: manage credit risk for decision-making
+- Analyze financial indicators for the sectoral study of customers and prospects
+-	Maintain regular customers and communicate with potential customers
+-	Promote bank financial products to customers
 
 ### SKILLS
 
@@ -28,6 +66,9 @@ July 2019            Portfolio Manager Securitization - Front Office - Crédit A
 -	Spanish (Beginner)
 -	Portuguese (Beginner)
 
+### INTERESTS
+-	Travel
+- Traditional Chinese Music
 
 
 
@@ -39,10 +80,7 @@ July 2019            Portfolio Manager Securitization - Front Office - Crédit A
 
 
 
-
-
-
-
+[comment]: <>(
 
 You can use the [editor on GitHub](https://github.com/zyztong/personal_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -76,3 +114,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+)
