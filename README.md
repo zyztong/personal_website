@@ -10,7 +10,9 @@
 - 2015 - 2016         **IPAG Business School (Paris) - Bachelor « Real estate financing »** 
 
 ### WORK HISTORY
-July 2019       _6 months_       
+July 2019       
+
+_6 months_       
 
 **Portfolio Manager Securitization - Front Office - Crédit Agricole CIB (France)**
 
@@ -20,7 +22,9 @@ July 2019       _6 months_
 -	Monitor transaction performance and calculate credit enhancement 
 -	Manage deals presentation for MO and Risks
 
-January 2019       _6 months_
+January 2019       
+
+_6 months_
 
 **Credit Risk Analyst – BNP Paribas (France)**
 
@@ -28,7 +32,9 @@ January 2019       _6 months_
 - Monitor the risk and rearrange the approvals
 - Write annual review of multinational corporation, by analyzing their annual reports and latest trends
 
-July 2018         _2 months_
+July 2018         
+
+_2 months_
 
 **Financial Analysts Assistant - China Life Insurance (China)**
 
@@ -36,7 +42,9 @@ July 2018         _2 months_
 - Calculate gross and profit margins
 -	Create the PivotTable to analyze variations in different costs
 
-May 2018         _2 months_
+May 2018
+
+_2 months_
 
 **Accounting Administration Assistant - Baobab Lab Traiteur (France)**
 
@@ -45,7 +53,11 @@ May 2018         _2 months_
 - Create the PivotTable to analyze variations in different costs
 
 
-May 2017         _4 months_
+May 2017         
+
+_4 months_
+
+**Account Manager Assistant - China Merchants Bank (China)**
 
 - Participate in steering the credit process for Yatai Group: manage credit risk for decision-making
 - Analyze financial indicators for the sectoral study of customers and prospects
