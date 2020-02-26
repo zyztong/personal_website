@@ -1,5 +1,4 @@
 ## Yuzhu ZHANG 
-![Image](https://raw.githubusercontent.com/zyztong/personal_website/master/source/profile.png)
 <img align="left" src="source/profile.jpg">
 ### EDUCATION
 
