@@ -1,16 +1,58 @@
-## Welcome to GitHub Pages
+## Yuzhu ZHANG 
+![profile]()
+
+
+### EDUCATION
+
+- 2017 - Present    **SKEMA Business School (Paris & US Raleigh) - Program GRANDE ECOLE**
+
+- 2016 - 2017         **SKEMA Business School (Paris) - ESDHEM Management** 
+
+- 2015 - 2016         **IPAG Business School (Paris) - Bachelor « Real estate financing »** 
+
+
+
+### WORK HISTORY
+July 2019            Portfolio Manager Securitization - Front Office - Crédit Agricole CIB (France)
+
+### SKILLS
+
+-	Bloomberg (Proficient) 
+-	Word, Excel, PowerPoint
+-	Basic programming skills
+-	Candidacy of CFA Level I
+
+### LANGUAGES
+-	Mandarin (Native Speaker)
+-	English (TOEIC 820/990，TOEFL ITP 563/677)
+-	French (DALF C1)
+-	Spanish (Beginner)
+-	Portuguese (Beginner)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/zyztong/personal_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
+```markdown 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+Grammer Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
